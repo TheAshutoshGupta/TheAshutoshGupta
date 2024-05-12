@@ -1,5 +1,5 @@
 # Hi there, I'm Ashutosh 👋
-<div style="width:100%;height:0;padding-bottom:64%;position:relative;"><iframe src="https://giphy.com/embed/SpopD7IQN2gK3qN4jS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/website-SpopD7IQN2gK3qN4jS">via GIPHY</a></p>
+<div style="width:100;height:0;padding-bottom:64;position:relative;"><iframe src="https://giphy.com/embed/SpopD7IQN2gK3qN4jS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/website-SpopD7IQN2gK3qN4jS">via GIPHY</a></p>
 
 
 👨‍💻 Here are some technologies I work with:
