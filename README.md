@@ -10,7 +10,13 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
-![Snake animation](https://raw.githubusercontent.com/TheAshutoshGupta/TheAshutoshGupta/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 
 🌱 I'm constantly learning and exploring new technologies to stay updated with industry trends and enhance my skills.
