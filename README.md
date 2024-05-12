@@ -1,4 +1,6 @@
-# Hi there, I'm Ashutosh 👋
+<h1 align="center">
+नमस्ते (Namaste), I Am Ashutosh Gupta!<br>
+</h1>
 <img align="center" width="1100" alt="Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhsdm9uanhibXZxcmFvbXZsZDE4dDB5YnY4azBpN3M0MW9wZmdpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SpopD7IQN2gK3qN4jS/giphy.gif">
 
 
