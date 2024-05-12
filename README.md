@@ -10,6 +10,9 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
+![Snake animation](https://raw.githubusercontent.com/TheAshutoshGupta/TheAshutoshGupta/output/github-contribution-grid-snake-dark.svg)
+
+
 🌱 I'm constantly learning and exploring new technologies to stay updated with industry trends and enhance my skills.
 
 📫 Let's connect! [LinkedIn](https://www.linkedin.com/in/ashutooshgupta/) | [Portfolio](https://theashutoshgupta.vercel.app/)
