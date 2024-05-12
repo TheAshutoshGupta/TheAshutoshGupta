@@ -12,7 +12,7 @@
 
 <h3 align="left">Github Stats:</h3>
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheAshutoshGupta&show_icons=true&theme=date_night&locale=en&layout=compact" alt="TheAshutoshGupta"></p>
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAshutoshGupta&" alt="TheAshutoshGupta" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TheAshutoshGupta&theme=date-night&hide_border=true" alt="GitHub Streak" /></a>
 
 
 <!---
