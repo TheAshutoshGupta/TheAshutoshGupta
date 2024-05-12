@@ -25,10 +25,8 @@
 
  <hr/>
 
-<br/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,cpp,nextjs,mysql,nextjs" /><br>
@@ -44,8 +42,12 @@
   <br/><br/><br/>
 </div>
 
+<hr/>
+
 
 ![Gaurav's Last 30 Days Github Activity Graph](https://gaurav-github-readme-activity-graph.vercel.app/graph?username=TheAshutoshGupta&theme=tokyo-night)
+
+<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -53,6 +55,7 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheAshutoshGupta&show_icons=true&theme=date_night&locale=en&layout=compact" alt="TheAshutoshGupta"></p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TheAshutoshGupta&theme=date-night&hide_border=true" alt="GitHub Streak" /></a>
 </div>
+<hr/>
 
 <img align="center" width="1100" alt="Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhsdm9uanhibXZxcmFvbXZsZDE4dDB5YnY4azBpN3M0MW9wZmdpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SpopD7IQN2gK3qN4jS/giphy.gif">
 
