@@ -11,7 +11,7 @@
 📫 Let's connect! [LinkedIn](https://www.linkedin.com/in/ashutooshgupta/) | [Portfolio](https://theashutoshgupta.vercel.app/)
 
 <h3 align="left">Github Stats:</h3>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheAshutoshGupta&show_icons=true&locale=en&layout=compact" alt="TheAshutoshGupta"></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheAshutoshGupta&show_icons=true&theme=date_night&locale=en&layout=compact" alt="TheAshutoshGupta"></p>
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAshutoshGupta&" alt="TheAshutoshGupta" /></p>
 
 
