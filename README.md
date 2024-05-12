@@ -5,7 +5,7 @@
 </h1>
 <div align="center">
  
- 🔭 I’m currently working on Full Stack Projects**
+ 🔭 I’m currently working on **FullStack Projects
  
  🌱 I’m currently learning **Docker, Supabase, Backend Technologies**
 
