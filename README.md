@@ -14,7 +14,7 @@
 
 📫 Let's connect! [LinkedIn](https://www.linkedin.com/in/ashutooshgupta/) | [Portfolio](https://theashutoshgupta.vercel.app/)
 
-![Gaurav's Last 30 Days Github Activity Graph](https://gaurav-github-readme-activity-graph.vercel.app/graph?username=TheAshutoshGupta&theme=date-night)
+![Gaurav's Last 30 Days Github Activity Graph](https://gaurav-github-readme-activity-graph.vercel.app/graph?username=TheAshutoshGupta&theme=tokyo-night)
 
 <h3 align="left">Github Stats:</h3>
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheAshutoshGupta&show_icons=true&theme=date_night&locale=en&layout=compact" alt="TheAshutoshGupta"></p>
