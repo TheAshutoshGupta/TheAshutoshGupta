@@ -39,13 +39,9 @@
 
    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TheAshutoshGupta/TheAshutoshGupta/output/github-snake-dark.svg" />
   
-  <br/><br/><br/>
+  <br/>
 </div>
 
-<hr/>
-
-
-![Gaurav's Last 30 Days Github Activity Graph](https://gaurav-github-readme-activity-graph.vercel.app/graph?username=TheAshutoshGupta&theme=tokyo-night)
 
 <hr/>
 
