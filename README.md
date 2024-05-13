@@ -49,7 +49,7 @@
 <div align=center>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheAshutoshGupta&show_icons=true&theme=date_night&locale=en&layout=compact" alt="TheAshutoshGupta"></p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TheAshutoshGupta&theme=date-night&hide_border=true" alt="GitHub Streak" /></a>
-<img src ="https://stats.quine.sh/TheAshutoshGupta/topics-over-time?theme=dark"/>
+<img src ="https://stats.quine.sh/TheAshutoshGupta/topics-over-time?theme=dark" height="200"/>
 </div>
 <hr/>
 
